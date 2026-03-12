@@ -1,7 +1,7 @@
 # Session – YYYY-MM-DD
 
 ## Topics covered
-- 
+-
 
 ## What I understood
 - 
