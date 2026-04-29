@@ -5,6 +5,6 @@ Create a trigger that fires before updating each row of the PET_CARE_LOG table. 
 Create a trigger that fires before any row is deleted from the PET_CARE_LOG table. This trigger looks at the user who is deleting the row. If the user is ‘JOEMANAGER,’ the delete continues successfully. Otherwise, the delete fails and sends an error message. Handle any other database errors the same way you did in the insert trigger.
  
 
-schema
+schema.
 
 https://www.relationaldbdesign.com/programming-plsql/module1/database-pet-store-schema.php
