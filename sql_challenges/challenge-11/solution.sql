@@ -28,7 +28,7 @@ Bonus:
 
 CheckConstraint("content != ''", name="ck_comments_content_not_empty")
 
---Exercise three
+--Exercise three.
 
 team = Team(name="DevOps", description="Infrastructure team")
 
